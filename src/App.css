@@ -1,0 +1,100 @@
+.pronav{
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+   
+}
+h2{
+  margin-left: 20px;
+}
+.deco{
+  text-decoration: none;
+}
+/* label{
+  display:block;
+  margin-top: px;
+  padding-top: 20px;
+  margin-right: 20px;
+  padding-bottom: -20px;
+   
+  
+}
+.inputfields input{
+  display: block;
+  margin-top: 30px;
+  border: none;
+  border-bottom: 2px solid black;
+  padding-top: 20px;
+  outline: none;
+  transition: 0.5s;
+}
+.flx{
+  display: flex;
+  align-items: center;
+  margin-left: 40px;
+}
+input[type=text]:focus{
+  border: 1px solid  blue;
+}
+.input{
+  display: flex;
+  gap: 5rem;
+  align-items: top;
+  align-items: flex-start;
+}
+.input h2{
+  margin-top: 2px;
+}
+h5{
+  margin-left: 18px;
+}
+button{
+   margin-top: 10px;
+  margin:30px auto;
+  margin-left: 200px;
+  border-radius: 5px solid blue;
+  padding: 8px 15px;
+  background-color: coral;
+}
+.ageflds{
+  display: flex;
+  justify-content: space-around;
+}
+.ageflds input{
+  width: 500px;
+}
+input[type="date"]{
+  padding: 10px;
+  border: 1px solid red;
+  border-radius: 4px;
+  font-size: 20px;
+
+}
+input[type="date"]::-webkit-calendar-picker-indicator{
+  background-color: red;
+  border: none;
+  border-radius: 14px;
+  cursor: pointer;
+  padding: 16px;
+}
+.custom label{
+   display: inline-grid;
+}
+.custom input{
+  display: block;
+}
+label{
+  margin-bottom: 20px;
+}
+.inputfields inputs{
+  background-color: red;
+}
+  */
+  .grid-item a{
+      font-size: 25px;
+      margin: auto 220px;
+      text-decoration: none;
+     
+    
+  }

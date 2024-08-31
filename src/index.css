@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+.heading{
+  color:darkblue;
+  margin-top: 12px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+/* h2{
+  text-align: center;
+  
+} */
+.meter {
+  /* margin: auto; */
+  border-style: dashed;
+  border-color: red;
+  border-radius: 5px;
+  max-width: auto;
+  max-height: auto;
+  /* margin-right: auto; */
+  background-color: rgba(245, 232, 230);
+  margin-right: 16px;
+}
+.inputfld {
+  display: flex;
+  max-width: auto;
+  max-height: 700px;
+  background-color: beige;
+  gap: 5rem;
+  /* justify-content: space-between; */
+  /* align-items: center; */
+  width: 100%;
+} 
+.inputfld h2{
+  color: green;
+}
+#standard-basic{
+   align-items: center;
+   
+}
+.flds {
+  align-items: flex-start;
+  margin-left: 80px;
+  width: 50%;
+
+}
+
+
+
+label+.css-1eed5fa-MuiInputBase-root-MuiInput-root {
+  margin-top: 16px;
+  width: 10rem;
+}
+ 
+.grid-container {
+  display: flex;
+  justify-content: center;
+  gap: 0px;
+  align-items: center;
+}

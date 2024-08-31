@@ -1,0 +1,27 @@
+.maincrd{
+    display: flex;
+    justify-content: space-around;
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    padding-left:60px; 
+    background-color: aquamarine;
+    
+}
+.crd{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+.crdcmp{
+    text-align: left;
+}
+.crdcont{
+    color: black;
+     
+}
+.titl{
+    color: red;
+}
+ 
+
+
